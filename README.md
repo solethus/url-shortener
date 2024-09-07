@@ -1,4 +1,4 @@
-# URL Shortener Starter
+# URL Shortener Starter:
 
 This is an Encore starter for a URL Shortener. It has two API endpoints and a PostgreSQL database to store the URL IDs and retrieve the full URL given an ID.
 
