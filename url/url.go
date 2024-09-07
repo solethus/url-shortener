@@ -1,4 +1,4 @@
-// Service url takes URLs, generates random short IDs, and stores the URLs in a database.
+// Package url Service url takes URLs, generates random short IDs, and stores the URLs in a database.
 package url
 
 import (
